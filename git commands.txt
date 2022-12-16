@@ -8,3 +8,7 @@ git status
 git add.
 git commit -m "Practice"
 git push
+
+To bring the code to other local system
+git fetch
+git pull
