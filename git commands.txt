@@ -1,0 +1,10 @@
+To get repository to Local system
+
+git clone "https://github.com/KrupaTelikoti/Practice.git"
+
+To share our code from Local system to repository
+
+git status
+git add.
+git commit -m "Practice"
+git push
